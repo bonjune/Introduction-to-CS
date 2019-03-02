@@ -4,13 +4,16 @@
 
 1. Download Anaconda with python3.
 2. Type the same as below to check if the anaconda is installed successfully.
-'''
+
+```
 (conda) conda --version
-'''
+```
+
 3. Run Python REPL.
-'''
+```
 (conda) python
-'''
+```
+
 Done! It's really recommended to get familiar with Python REPL(or Python Interactive Interpreter).
 
 ## IDE Install Guide.
@@ -22,12 +25,17 @@ Done! It's really recommended to get familiar with Python REPL(or Python Interac
 ## Very First Tutorial
 
 Let's have fun with Python. And get some feeling about
-'''
+```
 Life is short. Do Python.
-'''
+```
 
 We will write a small program recording a video. Awesome!
 * Keep in mind : this program depends on some libraries(PIL, opencv).
+
+```
+(conda) conda install -c anaconda pil 
+(conda) conda install -c anaconda opencv
+```
 
 
 # Python Basics
