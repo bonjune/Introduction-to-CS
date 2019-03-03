@@ -33,7 +33,8 @@ Let's have fun with Python. And delve into
 Life is short. Do Python.
 ```
 
-We will write a video-recording program. Awesome!
+We will write a video-recording program. Awesome!  
+[Click here to see the source code.](tutorial.py)
 * Keep in mind : this program depends on some libraries(PIL, opencv).
 
 ```
