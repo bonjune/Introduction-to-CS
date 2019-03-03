@@ -4,9 +4,9 @@ Before we start, you should keep in mind that programming is not only coding, bu
 
 ## Python Install Guide.
 
-1. Download Anaconda with python3.
+1. Download Anaconda for python3.
 [Click here to download.](https://www.anaconda.com/distribution/)
-2. Type the same as below to check if the anaconda is installed successfully.
+2. Type the command same as below to check if the anaconda is installed successfully.
 
 ```
 (conda) conda --version
@@ -54,14 +54,9 @@ We will cover data types with Python REPL.
 5. Sets
 6. Booleans
 
-## Subtopics
-
-* How to use Shell?
-* What is the difference between variable and expression?
 
 
 Then we will start to write codes with Python.
-VSCode is recommended. I will help you to install, and set up.
 
 ## Control Flow
 1. for-loops
@@ -72,3 +67,11 @@ VSCode is recommended. I will help you to install, and set up.
 1. Simple structure of a function
 2. Why we have to use function?
 3. Writing GOOD code
+
+## Subtopics
+
+* How to use Shell?
+    basic commands: cd, ls, mkdir
+* How to use git and GitHub?
+    IMPORTANT! I will share code with you in GitHub. Emails are for conversation, not coding.
+* What is the difference between variables and expressions?
