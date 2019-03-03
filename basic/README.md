@@ -1,8 +1,11 @@
 # Getting Started
 
+Before we start, you should keep in mind that programming is not only coding, but also reading lots of documents(for details).
+
 ## Python Install Guide.
 
 1. Download Anaconda with python3.
+[Click here to download.](https://www.anaconda.com/distribution/)
 2. Type the same as below to check if the anaconda is installed successfully.
 '''
 (conda) conda --version
@@ -16,8 +19,8 @@ Done! It's really recommended to get familiar with Python REPL(or Python Interac
 ## IDE Install Guide.
 
 1. Download VSCode.
+[Click here to download.](https://code.visualstudio.com)
 2. Download Python Extension.
-3. Restart your machine.
 
 ## Very First Tutorial
 
