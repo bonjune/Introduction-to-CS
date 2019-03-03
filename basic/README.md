@@ -109,15 +109,15 @@ Then we will start to write codes with Python.
 2. while-loops
 3. if-elif-else
 
-## Function
-1. Simple structure of a function
-2. Why we have to use function?
-3. Writing GOOD code
+## Functions
+1. Simple structures of functions
+2. Why we have to use functions?
+3. Writing GOOD codes
 
 ## Subtopics
 
 * How to use Shell?  
     basic commands: cd, ls, mkdir
 * How to use git and GitHub?  
-    **NOTICE** Code will be shared through GitHub. Emails are for conversation, not coding.
-* What is the difference between variables and expressions?
+    **NOTICE** Code will be shared through GitHub. Emails are used for conversation, not exclusively for helping coding.
+* What are the differences between variables and expressions?
