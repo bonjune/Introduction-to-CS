@@ -1,13 +1,13 @@
 # Getting Started
 
-Befor we get started, please be sure to keep in mind that programming not only includes coding, but also does reading lots documents with details.
+Before we get started, please be sure to keep in mind that programming not only includes coding, but also does reading lots of documents with details.
 
 ## Python Install Guide.
 
 1. Download Anaconda for python3.
 [Click here to download.](https://www.anaconda.com/distribution/)
 2. Open Anaconda prompt.
-3. Type the command same as below to check if the anaconda is installed successfully.
+3. Type the command same as below to check whether the anancoda has been installed succefully or not.
 
 ```
 (conda) conda --version
@@ -18,7 +18,7 @@ Befor we get started, please be sure to keep in mind that programming not only i
 (conda) python
 ```
 
-Done! It's really recommended to get familiar with Python REPL(or Python Interactive Interpreter).
+Done! It's strongly recommended to get used to Python REPL(or Python Interactive Interpreter).
 
 ## IDE Install Guide.
 
@@ -26,9 +26,9 @@ Done! It's really recommended to get familiar with Python REPL(or Python Interac
 [Click here to download.](https://code.visualstudio.com)
 2. Download Python Extension.
 
-## Very First Tutorial
+## The Very First Tutorial
 
-Let's have fun with Python. And get some feeling about
+Let's have fun with Python. And delve into
 ```
 Life is short. Do Python.
 ```
@@ -48,41 +48,59 @@ We will write a small program recording a video. Awesome!
 
 We will cover data types with Python REPL.
 
-1. **Numbers**
-* Assignment
-* Arithmetic Operation
-* Operator Priority
+<details><summary>1. <b>Numbers</b></summary>
+<ol>
+    <li>Assignment</li>
+    <li>Arithmetic Operation</li>
+    <li>Operator Priority</li>
+</ol>
+</details>
 
-2. **Strings**
-* Representation
-* String Operation
-* Indexing
-* Slicing
-* Formatting
-* Methods
+<details><summary>2. <b>Strings</b></summary>
+<ol>
+    <li>Representation</li>
+    <li>String Operation</li>
+    <li>Indexing</li>
+    <li>Slicing</li>
+    <li>Formatting</li>
+    <li>Methods</li>
+</ol>
+</details>
 
-3. **Lists and Tuples**
-* Representation
-* List Operation
-* Indexing
-* Slicing
-* Methods
-* Difference between List and Tuples
+<details><summary>3. <b>Lists and Tuples</b></summary>
+<ol>
+    <li>Representation</li>
+    <li>List Operation</li>
+    <li>Indexing</li>
+    <li>Slicing</li>
+    <li>Methods</li>
+    <li>Diffence between List and Tuples</li>
+</ol>
+</details>
 
-4. **Dictionaries**
-* Representation
-* Key-Value Pair
-* Methods
+<details><summary>4. <b>Dictionaries</b></summary>
+<ol>
+    <li>Representation</li>
+    <li>Key-Value Pair</li>
+    <li>Methods</li>
+</ol>
+</details>
 
-5. **Sets**
-* Representation
-* What is Set(mathematically)?
-* Methods
+<details><summary>5. <b>Sets</b></summary>
+<ol>
+    <li>Representation</li>
+    <li>What is Set mathematically?</li>
+    <li>Methods</li>
+</ol>
+</details>
 
-6. **Booleans**
-* True and False
-* Boolean Features of Data
-* Boolean Operation
+<details><summary>6. <b>Booleans</b></summary>
+<ol>
+    <li>True and False</li>
+    <li>Boolean Features of Data</li>
+    <li>Boolean Operation</li>
+</ol>
+</details>
 
 Then we will start to write codes with Python.
 
