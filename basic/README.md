@@ -33,7 +33,7 @@ Let's have fun with Python. And delve into
 Life is short. Do Python.
 ```
 
-We will write a small program recording a video. Awesome!
+We will write a video-recording program. Awesome!
 * Keep in mind : this program depends on some libraries(PIL, opencv).
 
 ```
@@ -119,5 +119,5 @@ Then we will start to write codes with Python.
 * How to use Shell?  
     basic commands: cd, ls, mkdir
 * How to use git and GitHub?  
-    IMPORTANT! I will share code with you in GitHub. Emails are for conversation, not coding.
+    **NOTICE** Code will be shared through GitHub. Emails are for conversation, not coding.
 * What is the difference between variables and expressions?
