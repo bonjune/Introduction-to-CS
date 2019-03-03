@@ -1,15 +1,35 @@
-# Write a code to build fibonacci sequence
+def fibo(n):
+    # Exception Handling
+    if n < 1:
+        print("n must be larger or equal to 1")
+        return
 
-# 0, 1, 1, 2, 3, 5, ...
-n = 10
-res = []
+    if n == 1:
+        res = [0, ]
+    elif n == 2:
+        res = [0, 1]
+    else:
+        for i in range(n - 2):
 
-for i in range(n):
-    # Declare a variable and assign a value for next element
-    # Then append it to list res
-    pass
+            # Declare a variable and assign a value for next element
+            # Then append it to list res
 
-# For test
+            ##############################
+            ##############################
+            ########Your Code Here########
+            ##############################
+            ##############################
+            pass
+    
+    return res
 
-for i, number in enumerate(res):
-    print(i+1, number)
+def main():
+    n = int(input("Enter a postive integer:"))
+    res = fibo(n)
+
+    for i, number in enumerate(res):
+        print(i+1, number)
+
+
+if __name__ == "__main__":
+    main()
