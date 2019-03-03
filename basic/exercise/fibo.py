@@ -25,8 +25,11 @@ def fibo(n):
 
 def main():
     n = int(input("Enter a postive integer:"))
+
+    # fibo returns a list of n-length sequence
     res = fibo(n)
 
+    # For test
     for i, number in enumerate(res):
         print(i+1, number)
 
