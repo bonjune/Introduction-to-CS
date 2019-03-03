@@ -1,18 +1,19 @@
 # Getting Started
 
-Before we start, you should keep in mind that programming is not only coding, but also reading lots of documents(for details).
+Befor we get started, please be sure to keep in mind that programming not only includes coding, but also does reading lots documents with details.
 
 ## Python Install Guide.
 
 1. Download Anaconda for python3.
 [Click here to download.](https://www.anaconda.com/distribution/)
-2. Type the command same as below to check if the anaconda is installed successfully.
+2. Open Anaconda prompt.
+3. Type the command same as below to check if the anaconda is installed successfully.
 
 ```
 (conda) conda --version
 ```
 
-3. Run Python REPL.
+4. Run Python REPL.
 ```
 (conda) python
 ```
@@ -47,14 +48,41 @@ We will write a small program recording a video. Awesome!
 
 We will cover data types with Python REPL.
 
-1. Numbers
-2. Strings
-3. Lists and Tuples
-4. Dictionaries
-5. Sets
-6. Booleans
+1. **Numbers**
+* Assignment
+* Arithmetic Operation
+* Operator Priority
 
+2. **Strings**
+* Representation
+* String Operation
+* Indexing
+* Slicing
+* Formatting
+* Methods
 
+3. **Lists and Tuples**
+* Representation
+* List Operation
+* Indexing
+* Slicing
+* Methods
+* Difference between List and Tuples
+
+4. **Dictionaries**
+* Representation
+* Key-Value Pair
+* Methods
+
+5. **Sets**
+* Representation
+* What is Set(mathematically)?
+* Methods
+
+6. **Booleans**
+* True and False
+* Boolean Features of Data
+* Boolean Operation
 
 Then we will start to write codes with Python.
 
@@ -70,8 +98,8 @@ Then we will start to write codes with Python.
 
 ## Subtopics
 
-* How to use Shell?
+* How to use Shell?  
     basic commands: cd, ls, mkdir
-* How to use git and GitHub?
+* How to use git and GitHub?  
     IMPORTANT! I will share code with you in GitHub. Emails are for conversation, not coding.
 * What is the difference between variables and expressions?
