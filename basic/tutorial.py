@@ -2,7 +2,6 @@ from PIL import ImageGrab
 import cv2
 import numpy as np
 
-
 scale = 0.3
 
 while True:
